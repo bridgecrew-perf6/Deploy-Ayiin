@@ -1,6 +1,6 @@
-# Man-Userbot Telegram
+# Ayiin-Userbot Telegram
 
-Man-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+Ayiin-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
@@ -21,14 +21,14 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 - [List Variabel Man-Userbot](https://telegra.ph/List-Variabel-Heroku-untuk-Man-Userbot-09-22)
 
 ### Generate String Session
-[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://repl.it/@mrismanaziz/stringenSession?lite=1&outputonly=1)
+[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://repl.it/@AyiinXd/ConnorString?lite=1&outputonly=1)
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
 <p align="center"><a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 
 ## Updates dan support
 
-Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Man-Userbot.
+Follow Channel [@AyiinSupport](https://t.me/AyiinSupport) untuk info Update bot dan Gabung Group [@AyiinXdSupport](https://t.me/AyiinXdSupport) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Ayiin-Userbot.
 
 ## © Credits
 #### Thanks To [Everyone](https://github.com/mrismanaziz/Man-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
